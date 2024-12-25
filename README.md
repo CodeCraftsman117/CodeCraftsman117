@@ -29,6 +29,6 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
 
 <div align=center>
 <a href="#" title="Go to Source">
-      <img height="180em" width="45%" align="right" src="http://github-readme-streak-stats.herokuapp.com?user=CodeCraftsman117&theme=react&border=61DAFB&fire=DDB80F"/>
+      <img height="180em" width="45%" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=CodeCraftsman117&theme=react&border=61DAFB&fire=DDB80F"/>
  </a>
 </div>
